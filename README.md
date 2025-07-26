@@ -11,11 +11,10 @@ A Python implementation of the Caesar cipher, a classic substitution encryption 
 ## Usage
 
 ### Encoding
-```python
+
 encode_caesar("Hello, Caesar!", 3)
 
 ### Decoding
-```python
 decode_caesar("Khoor, Fdhvdu!", 3)
 
 
